@@ -18,5 +18,17 @@ build_property.ProjectDir = D:\code\c#\MusicStore\MusicStore\
 [D:/code/c\#/MusicStore/MusicStore/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[D:/code/c\#/MusicStore/MusicStore/Icons.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/code/c\#/MusicStore/MusicStore/Views/AlbumView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [D:/code/c\#/MusicStore/MusicStore/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/code/c\#/MusicStore/MusicStore/Views/MusicStoreView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/code/c\#/MusicStore/MusicStore/Views/MusicStoreWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
